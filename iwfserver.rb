@@ -1,4 +1,4 @@
-class iwfserver < Formula
+class Iwfserver < Formula
   desc "iwf Server"
   homepage "https://github.com/ankitsharma26/iwf"
   url ".../iwf-server.tar.gz", :using => GitHubPrivateRepositoryReleaseDownloadStrategy

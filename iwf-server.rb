@@ -1,4 +1,4 @@
-class Iwf < Formula
+class IwfServer < Formula
   desc "Install iwf"
   homepage "https://github.com/ankitsharma26/iwf"
   url "https://github.com/ankitsharma26/iwf/archive/refs/tags/v1.0.0.tar.gz"
